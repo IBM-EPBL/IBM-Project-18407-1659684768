@@ -1,10 +1,10 @@
 # IBM-Project-18407-1659684768
 
-#Project Title          :  Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy
+# Project Title          :  Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy
 
-#Faculty Mentor(s) Name :  ANNADURAI P
+# Faculty Mentor(s) Name :  ANNADURAI P
 
-##Deep Learning Fundus Image Analysis For Early Detection Of Diabetic Retinopathy
+## Deep Learning Fundus Image Analysis For Early Detection Of Diabetic Retinopathy
 
 Category: Artificial Intelligence
 
@@ -17,3 +17,5 @@ Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which c
 
 
 Transfer learning has become one of the most common techniques that has achieved better performance in many areas, especially in medical image analysis and classification. We used Transfer Learning techniques like Inception V3,Resnet50,Xception V3 that are more widely used as a transfer learning method in medical image analysis and they are highly effective.
+
+![image](https://user-images.githubusercontent.com/61245841/190439888-f60bd847-114f-47b5-a709-03f10c460d05.png)
