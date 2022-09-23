@@ -20,6 +20,27 @@ Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which c
 
 Transfer learning has become one of the most common techniques that has achieved better performance in many areas, especially in medical image analysis and classification. We used Transfer Learning techniques like Inception V3,Resnet50,Xception V3 that are more widely used as a transfer learning method in medical image analysis and they are highly effective.
 
+
+
+# OBJECTIVE :
+
+- To Gain a good understanding of the image data.
+
+- To Know fundamental concepts & techniques of transfer learning like Xception, CNN etc..
+
+- To Know how to pre-process and clean the data using different data pre-processing techniques.
+
+- To Know how to build a web application using the Flask framework from python .
+
+
+# PROJECT FLOW :
+
+- The user interacts with the UI (User Interface) to choose the image.
+
+- The chosen image analyzed by the model which is integrated with flask application.
+
+- The Xception Model analyzes the image, then the prediction is showcased on the Flask UI.
+
 # Architecture Diagram :
 
 ![image](https://user-images.githubusercontent.com/61245841/190439888-f60bd847-114f-47b5-a709-03f10c460d05.png)
