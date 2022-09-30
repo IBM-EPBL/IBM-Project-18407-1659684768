@@ -9,9 +9,17 @@
 </br></br>
 
  # <b>Category </b> : Artificial Intelligence  &nbsp; <img  align ="middle" src="https://images.unsplash.com/photo-1589254065878-42c9da997008?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" width="220"></br></br>
+ 
+ 
+ # Meet the Team 🐱‍🏍
+ ![ibm](https://user-images.githubusercontent.com/61245841/193197898-f458894b-cb2b-4d3b-aadc-8988851cfd67.png)
+
+<hr>
 
 
 ### <b> Skills Required </b> : Python, CNN, IBM Cloud, IBM Watson Studio, IBM Cloudant DB, Deep Learning, Python-Flask.
+
+<hr>
 
 ## Project Description:
 
