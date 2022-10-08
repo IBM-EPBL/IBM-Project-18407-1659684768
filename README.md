@@ -52,3 +52,14 @@ Transfer learning has become one of the most common techniques that has achieved
 # Architecture Diagram :
 
 ![image](https://user-images.githubusercontent.com/61245841/190439888-f60bd847-114f-47b5-a709-03f10c460d05.png)
+
+<hr>
+
+ <h2> Completed Tasks : </h2>
+  
+- [x] Brainstorm and Ideation <br>
+- [x] Problem Statement <br>
+- [x] Empathy Map <br>
+- [x] Assignment 1 <br>
+- [x] Assignment 2  <br>
+- [x] Proposed Solution <br>
