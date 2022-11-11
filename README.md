@@ -73,13 +73,24 @@ Transfer learning has become one of the most common techniques that has achieved
   - [x] Literature Survey <br>
   - [x] Empathy Map <br>
   - [x] Brainstorming <br>
+- [x] Project Design Phase -1 <br>
+  - [x] Proposed Solution <br>
+  - [x] Problem Solution Fit<br>
+  - [x] Solution Architecture <br>
+  
 
-- [x] Problem Statement <br>
-- [x] Assignment 1 <br>
-- [x] Assignment 2  <br>
-- [x] Assignment 3  <br>
-- [x] Assignment 4  <br>
-- [x] Proposed Solution <br>
+- [x] ASSIGNMENTS <br>
+  - [x] Assignment 1 <br>
+  - [x] Assignment 2  <br>
+  - [x] Assignment 3  <br>
+  - [x] Assignment 4  <br>
+
+- [x] QUIZZES <br>
+  - [x] Quiz 1 <br>
+  - [x] Quiz 2 <br>
+  - [x] Quiz 3 <br>
+  - [x] Quiz 4 <br>
+
 
 
 
