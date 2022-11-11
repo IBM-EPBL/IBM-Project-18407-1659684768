@@ -2,7 +2,7 @@
 
 # Project Title          :  Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy 
 
-## Faculty Mentor(s) Name :  ANNADURAI P 👨‍🏫
+## Faculty Mentor(s) Name :  SUBASHINI MUNUSWAMY 👨‍🏫
 
 
 ## 💊 Deep Learning Fundus Image Analysis For Early Detection Of Diabetic Retinopathy ⚕
@@ -57,11 +57,28 @@ Transfer learning has become one of the most common techniques that has achieved
 
  <h2> Completed Tasks : </h2>
   
-- [x] Brainstorm and Ideation <br>
+  
+- [x] Pre Requistes <br>
+- [x] Prior Knowledge <br>
+- [x] Project Objectives <br>
+- [x] Project Flow <br>
+- [x] Project Strucure <br>
+  - [x] Data Collection <br>
+  - [x] Data Preprocessing <br>
+  - [x] Model Building <br>
+  - [x] Create Cloudant DB <br>
+  - [x] Application Building  <br>
+  - [x] Train The Model On IBM <br>
+- [x] Ideation Phase <br>
+  - [x] Literature Survey <br>
+  - [x] Empathy Map <br>
+  - [x] Brainstorming <br>
+
 - [x] Problem Statement <br>
-- [x] Empathy Map <br>
 - [x] Assignment 1 <br>
 - [x] Assignment 2  <br>
+- [x] Assignment 3  <br>
+- [x] Assignment 4  <br>
 - [x] Proposed Solution <br>
 
 
