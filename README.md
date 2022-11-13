@@ -98,7 +98,10 @@ You must have prior knowledge of following topics to complete this project.
   - [x] Milestone, Activity list & Sprint Delivery plan Solution <br>
   - [x] Jira <br>
   - [x] Burn Down Chart <br>
-  
+- [x] Project Development Phase <br>
+  - [x] Sprint 1 <br>
+  - [x] Sprint 2 <br>
+    
 
 - [x] ASSIGNMENTS <br>
   - [x] Assignment 1 <br>
