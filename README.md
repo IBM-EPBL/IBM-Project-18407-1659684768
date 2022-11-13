@@ -1,12 +1,11 @@
 # IBM-Project-18407-1659684768
 
-# Project Title          :  Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy 
+## TEAM ID : PNT2022TMID20760
 
-## Faculty Mentor(s) Name :  SUBASHINI MUNUSWAMY 👨‍🏫
+# Project Title          :  💊 Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy ⚕
 
+## Faculty Mentor(s) Name :   SUBASHINI MUNUSWAMY 👨‍🏫
 
-## 💊 Deep Learning Fundus Image Analysis For Early Detection Of Diabetic Retinopathy ⚕
-</br></br>
 
  # <b>Category </b> : Artificial Intelligence  &nbsp; <img  align ="middle" src="https://images.unsplash.com/photo-1589254065878-42c9da997008?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" width="220"></br></br>
  
@@ -17,11 +16,7 @@
 <hr>
 
 
-### <b> Skills Required </b> : Python, CNN, IBM Cloud, IBM Watson Studio, IBM Cloudant DB, Deep Learning, Python-Flask.
-
-<hr>
-
-## Project Description:
+## Project Description :
 
 Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which causes lesions on the retina that affect vision. If it is not detected early, it can lead to blindness. Unfortunately, DR is not a reversible process, and treatment only sustains vision. DR early detection and treatment can significantly reduce the risk of vision loss. The manual diagnosis process of DR retina fundus images by ophthalmologists is time, effort and cost-consuming and prone to misdiagnosis unlike computer-aided diagnosis systems. 
 
@@ -40,6 +35,24 @@ Transfer learning has become one of the most common techniques that has achieved
 
 - To Know how to build a web application using the Flask framework from python .
 
+## Pre Requisites :
+Install the following python packages
+  * pip install numpy
+  * pip install pandas
+  * pip install tensorflow==2.3.2
+  * pip install keras==2.3.1
+  * pip install Flask
+
+## Prior Knowledge :
+You must have prior knowledge of following topics to complete this project.
+  * Deep Learning Concepts 
+  * CNN
+  * VGG16
+  * ResNet-50
+  * Inception-V3
+  * Xception
+  * Flask :- 
+    *  *Flask is a popular Python web framework, meaning it is a third-party Python library used for developing web applications.*
 
 # PROJECT FLOW :
 
@@ -77,6 +90,14 @@ Transfer learning has become one of the most common techniques that has achieved
   - [x] Proposed Solution <br>
   - [x] Problem Solution Fit<br>
   - [x] Solution Architecture <br>
+- [x] Project Design Phase -2 <br>
+  - [x] Data Folow Diagrams <br>
+  - [x] Solution Requirements <br>
+  - [x] Technology Architecture <br>
+- [x] Project Planning <br>
+  - [x] Milestone, Activity list & Sprint Delivery plan Solution <br>
+  - [x] Jira <br>
+  - [x] Burn Down Chart <br>
   
 
 - [x] ASSIGNMENTS <br>
