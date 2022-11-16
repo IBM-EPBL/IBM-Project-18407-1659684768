@@ -101,6 +101,22 @@ You must have prior knowledge of following topics to complete this project.
 - [x] Project Development Phase <br>
   - [x] Sprint 1 <br>
   - [x] Sprint 2 <br>
+  - [x] Sprint 3 <br>
+  - [x] Sprint 4 <br>
+  - [x] Testing <br>
+    - [x] User Testing <br>
+    - [x] Performance Testing <br> 
+
+- [x] Final Deliverables <br>
+  - [x] Dataset <br>
+     - [x] Dataset link<br>
+  - [x] Demonstration Video <br>
+     - [x] Demo.pdf<br>
+     - [x] Demo.mp4<br>
+  - [x] Final Code<br>
+  - [x] Output <br>
+     - [x] output.pdf <br>
+  
     
 
 - [x] ASSIGNMENTS <br>
