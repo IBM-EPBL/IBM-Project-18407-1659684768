@@ -91,7 +91,8 @@ You must have prior knowledge of following topics to complete this project.
   - [x] Problem Solution Fit<br>
   - [x] Solution Architecture <br>
 - [x] Project Design Phase -2 <br>
-  - [x] Data Folow Diagrams <br>
+  - [x] Customer Journey <br>
+  - [x] Data Folow Diagrams <br>  
   - [x] Solution Requirements <br>
   - [x] Technology Architecture <br>
 - [x] Project Planning <br>
